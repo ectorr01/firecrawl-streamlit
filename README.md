@@ -14,7 +14,7 @@
 
 ### Home Page
 
-![Estrazione di una singola pagina](screenshots/home.png)
+![Estrazione di una singola pagina](screenshots/home.PNG)
 
 
 ### Modalità Scrape
