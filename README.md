@@ -1,8 +1,7 @@
 # Firecrawl Streamlit Scraper
-[![GitHub stars](https://img.shields.io/github/stars/ectorr01/firecrawl-streamlit?style=flat-square)](https://github.com/ectorr01/firecrawl-streamlit)
-[![GitHub forks](https://img.shields.io/github/forks/ectorr01/firecrawl-streamlit?style=flat-square)](https://github.com/ectorr01/firecrawl-streamlit)
-[![GitHub last commit](https://img.shields.io/github/last-commit/ectorr01/firecrawl-streamlit?style=flat-square)](https://github.com/ectorr01/firecrawl-streamlit/commits/main)
-[![GitHub repo size](https://img.shields.io/github/repo-size/ectorr01/firecrawl-streamlit?style=flat-square)](https://github.com/ectorr01/firecrawl-streamlit)
+[![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
+[![Streamlit](https://img.shields.io/badge/Streamlit-App-FE4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://streamlit.io/)
+[![Firecrawl](https://img.shields.io/badge/Firecrawl-Web%20Scraping-FF6B35?style=flat-square)](https://www.firecrawl.dev/)
 
 Mini applicazione Streamlit per estrarre il contenuto di una pagina web tramite Firecrawl e visualizzarlo in formato Markdown.
 
