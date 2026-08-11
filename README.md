@@ -17,14 +17,6 @@
 ![Estrazione di una singola pagina](screenshots/home.PNG)
 
 
-### Modalità Scrape
-
-![Estrazione di una singola pagina](screenshots/scrape.png)
-
-### Modalità Crawl
-
-![Estrazione di più pagine collegate](screenshots/crawl.png)
-
 **Firecrawl Streamlit Scraper** è un'applicazione web che permette di estrarre in modo rapido e ordinato il contenuto di pagine web pubbliche, trasformandolo in Markdown pulito e leggibile. L'app supporta due modalità di utilizzo: l'estrazione di una singola pagina oppure il crawling automatico di più pagine appartenenti allo stesso sito.
 
 Il progetto nasce per semplificare un problema comune a chi lavora con l'intelligenza artificiale e l'analisi dati: recuperare il contenuto "utile" di una o più pagine web senza dover gestire manualmente parsing HTML, script dinamici, elementi grafici superflui, paginazione o navigazione tra i link di un sito.
@@ -34,7 +26,17 @@ L'app si appoggia all'**API di Firecrawl**, un servizio specializzato nella conv
 ### Le due modalità disponibili
 
 - **Scrape (una pagina)**: converte una singola pagina web in Markdown, restituendo anche i metadati disponibili (titolo, descrizione, lingua). È il punto di partenza ideale per capire come Firecrawl elabora un contenuto.
+
+### Modalità Scrape
+
+![Estrazione di una singola pagina](screenshots/scrape.png)
+
+
 - **Crawl (più pagine)**: parte da un URL e segue automaticamente i link interni del sito, restituendo il Markdown di più pagine in un'unica esecuzione. È utile quando serve raccogliere contenuti da un'intera sezione di documentazione, un blog o un sito informativo. Il numero massimo di pagine è configurabile direttamente dall'interfaccia, per tenere sotto controllo il consumo di crediti Firecrawl.
+
+### Modalità Crawl
+
+![Estrazione di più pagine collegate](screenshots/crawl.png)
 
 ### A cosa serve concretamente
 
